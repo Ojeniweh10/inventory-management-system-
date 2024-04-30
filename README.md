@@ -20,7 +20,7 @@ To use the Inventory Management System desktop application, follow these steps:
 
 3. Run the application:
 
-Usage
+## Usage
 To access the main dashboard of the Inventory Management System desktop application, you need to go through the login process.
 If you're a new user, click on the "Register" button on the login page to create a new account. Fill in the required information and submit the form.
 After registration, you can use your credentials to log in.
@@ -28,6 +28,8 @@ If you're a returning user, enter your username and password on the login page a
 Upon successful authentication, you'll be directed to the main dashboard where you can start managing your inventory.
 Use the navigation menu to access different features such as adding products, managing stock movements, and generating reports.
 Follow the on-screen instructions to perform various actions such as adding new products, recording sales, and viewing reports.
+
+you can checkout the inventory.mp4 file to see how the application works
 
 ## Contributing
 
